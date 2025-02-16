@@ -1,0 +1,7 @@
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\bin\Debug\Csharp27.exe.config
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\bin\Debug\Csharp27.exe
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\bin\Debug\Csharp27.pdb
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\obj\Debug\Csharp27.csproj.AssemblyReference.cache
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\obj\Debug\Csharp27.csproj.CoreCompileInputs.cache
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\obj\Debug\Csharp27.exe
+D:\CODE\Tự học C#\File Bài Tập\MyProject\Csharp27\obj\Debug\Csharp27.pdb
